@@ -1,2 +1,2 @@
 # insertintoit
-Proyecto que tiene como fin brindar información para aquellas interesadas que quieren ingresar al universo IT 
+Proyecto que tiene como fin brindar información para aquellas personas interesadas que quieren ingresar al universo IT 
